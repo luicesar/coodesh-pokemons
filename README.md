@@ -10,6 +10,7 @@ Esta é uma API para listar Pokémon utilizando a PokeAPI. Permite também cadas
 - SQLite
 
 ## Configuração do Ambiente
+0. Ambiente Linux Ubuntu
 1. Instale o .NET SDK: [Instalação do .NET SDK](https://docs.microsoft.com/pt-br/dotnet/core/install/linux-ubuntu)
 2. Configure o Visual Studio Code com a extensão C#.
 
